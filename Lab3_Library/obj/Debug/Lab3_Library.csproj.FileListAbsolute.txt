@@ -1,0 +1,18 @@
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Library\bin\Debug\Lab3_Library.dll
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Library\bin\Debug\Lab3_Library.pdb
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Library\obj\Debug\Lab3_Library.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Library\obj\Debug\Lab3_Library.csproj.CopyComplete
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Library\obj\Debug\Lab3_Library.dll
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Library\obj\Debug\Lab3_Library.pdb
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Library\obj\Debug\Lab3_Library.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Library\bin\Debug\Lab3_Interface_FixBug.dll
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Library\bin\Debug\Lab3_Interface_FixBug.pdb
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Library\bin\Debug\Lab3_Library.dll
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Library\bin\Debug\Lab3_Library.pdb
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Library\bin\Debug\Lab3_Interface_FixBug.dll
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Library\bin\Debug\Lab3_Interface_FixBug.pdb
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Library\obj\Debug\Lab3_Library.csprojAssemblyReference.cache
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Library\obj\Debug\Lab3_Library.csproj.CoreCompileInputs.cache
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Library\obj\Debug\Lab3_Library.csproj.CopyComplete
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Library\obj\Debug\Lab3_Library.dll
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Library\obj\Debug\Lab3_Library.pdb

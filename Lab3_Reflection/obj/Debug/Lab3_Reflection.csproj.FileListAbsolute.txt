@@ -1,0 +1,26 @@
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.Form1.resources
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.Properties.Resources.resources
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.csproj.GenerateResource.cache
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\bin\Debug\Lab3_Reflection.exe.config
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\bin\Debug\Lab3_Reflection.exe
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\bin\Debug\Lab3_Reflection.pdb
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.exe
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.pdb
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.csproj.CopyComplete
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\bin\Debug\Lab3_Interface_FixBug.dll
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Reflection\bin\Debug\Lab3_Interface_FixBug.pdb
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\bin\Debug\Lab3_Reflection.exe.config
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\bin\Debug\Lab3_Reflection.exe
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\bin\Debug\Lab3_Reflection.pdb
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\bin\Debug\Lab3_Interface_FixBug.dll
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\bin\Debug\Lab3_Interface_FixBug.pdb
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.csprojAssemblyReference.cache
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.Form1.resources
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.Properties.Resources.resources
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.csproj.GenerateResource.cache
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.csproj.CoreCompileInputs.cache
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.csproj.CopyComplete
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.exe
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Reflection\obj\Debug\Lab3_Reflection.pdb

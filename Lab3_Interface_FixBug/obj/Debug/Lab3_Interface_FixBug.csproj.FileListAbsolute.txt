@@ -1,0 +1,10 @@
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Interface_FixBug\bin\Debug\Lab3_Interface_FixBug.dll
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Interface_FixBug\bin\Debug\Lab3_Interface_FixBug.pdb
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Interface_FixBug\obj\Debug\Lab3_Interface_FixBug.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Interface_FixBug\obj\Debug\Lab3_Interface_FixBug.dll
+C:\Users\damia\Desktop\Reflection\Lab3_Reflection\Lab3_Interface_FixBug\obj\Debug\Lab3_Interface_FixBug.pdb
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Interface_FixBug\bin\Debug\Lab3_Interface_FixBug.dll
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Interface_FixBug\bin\Debug\Lab3_Interface_FixBug.pdb
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Interface_FixBug\obj\Debug\Lab3_Interface_FixBug.csproj.CoreCompileInputs.cache
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Interface_FixBug\obj\Debug\Lab3_Interface_FixBug.dll
+E:\DOKUMENTY\WAT\2. Semestr V Zimowy 2018-2019\JFK\Lab3_Reflection\Lab3_Interface_FixBug\obj\Debug\Lab3_Interface_FixBug.pdb
